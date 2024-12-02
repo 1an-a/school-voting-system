@@ -9,7 +9,7 @@
 
   <!------------------  Bootstrap css ------------------>
 
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="bootstrap.min.css">
 
   <!------------------  FontAwesome CDN ------------------>
 
@@ -17,7 +17,7 @@
 
 <!------------------  Custom css------------------>
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 
 <!------------------  Fonts CDN ------------------>
 
